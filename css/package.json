@@ -3,6 +3,6 @@
         "prettier": "^2.0.5",
         "stylelint": "^13.3.3",
         "stylelint-config-prettier": "^8.0.2",
-        "stylelint-config-recommended": "^4.0.0"
+        "stylelint-config-recommended": "^5.0.0"
     }
 }
