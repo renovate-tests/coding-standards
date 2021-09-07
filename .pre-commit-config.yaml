@@ -56,7 +56,7 @@ repos:
                 - stylelint-config-recommended@4.0.0
                 - stylelint-config-prettier@8.0.2
     - repo: https://gitlab.com/pycqa/flake8
-      rev: 3.9.1
+      rev: 3.9.2
       hooks:
           - id: flake8
             args: [--config=python/setup.cfg]
